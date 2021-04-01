@@ -1,0 +1,982 @@
+[
+  {
+    "name": "WickedCSS Animations",
+    "desc": "A library of pure CSS animations.",
+    "cat": "Library,CSS",
+    "doc": "https://kristofferandreasen.github.io/wickedCSS/",
+    "src": "https://kristofferandreasen.github.io/wickedCSS/dist/wickedcss.min.css"
+  },
+  {
+    "name": "Motus",
+    "desc": "An animation library that mimics CSS keyframes when scrolling.",
+    "cat": "Library,CSS",
+    "doc": "http://alexcambose.ro/motus/#/quick-start",
+    "src": "https://github.com/alexcambose/motus"
+  },
+  {
+    "name": "ScrollOut",
+    "desc": "Detects changes in scrolling for reveal, parallax and CSS variable effects.",
+    "cat": "Library,CSS",
+    "doc": "https://scroll-out.github.io/guide.html",
+    "src": "https://github.com/scroll-out/scroll-out/archive/master.zip"
+  },
+  {
+    "name": "SimpleBar",
+    "desc": "Create cross-browser, custom scrollbars using pure CSS.",
+    "cat": "Library,CSS",
+    "doc": "https://github.com/Grsmto/simplebar/tree/master/packages/simplebar#1-documentation",
+    "src": "https://cdn.jsdelivr.net/npm/simplebar@latest/dist/"
+  },
+  {
+    "name": "Repaintless",
+    "desc": "A lightweight CSS animation library.",
+    "cat": "Library,CSS",
+    "doc": "https://github.com/szynszyliszys/repaintless",
+    "src": "http://szynszyliszys.github.io/repaintless/"
+  },
+  {
+    "name": "Three Dots",
+    "desc": "A collection of loading animations – all with just 3 little dots.",
+    "cat": "Library,CSS",
+    "doc": "https://nzbin.github.io/three-dots/",
+    "src": "https://github.com/nzbin/three-dots"
+  },
+  {
+    "name": "splitting",
+    "desc": "Library for animating text and grids with CSS variables.",
+    "cat": "Library,CSS",
+    "doc": "https://splitting.js.org/guide.html",
+    "src": "https://splitting.js.org/"
+  },
+  {
+    "name": "Epic Spinners",
+    "desc": "A collection of CSS-only spinning icons with VueJS integration.",
+    "cat": "Library,CSS,Vue",
+    "doc": "https://epic-spinners.epicmax.co/get-started",
+    "src": "https://epic-spinners.epicmax.co/"
+  },
+  {
+    "name": "Boilerform",
+    "desc": "An HTML and CSS boilerplate to take the pain away from working with forms.",
+    "cat": "Library,CSS,HTML",
+    "doc": "https://boilerform.hankchizljaw.com/#getting-started",
+    "src": "https://github.com/hankchizljaw/boilerform"
+  },
+  {
+    "name": "Micron",
+    "desc": "A micro-interaction library built on CSS and JS.",
+    "cat": "Library,CSS,JS",
+    "doc": "https://webkul.github.io/micron/docs.html#getting-started",
+    "src": "https://github.com/webkul/micron"
+  },
+  {
+    "name": "AnimTrap",
+    "desc": "A CSS & JavaScript framework for animations.",
+    "cat": "Library,SCSS,JS",
+    "doc": "https://sanjayaharshana.github.io/AnimTrap/Demos/",
+    "src": "https://github.com/sanjayaharshana/AnimTrap"
+  },
+  {
+    "name": "Pure HTML5 and CSS3 SVG Loaders",
+    "desc": "An attractive collection of loading images you can download for free.",
+    "cat": "Library,CSS,HTML",
+    "doc": "https://dribbble.com/",
+    "src": "https://dribbble.com/shots/4396784--16-Free-Pure-HTML5-And-CSS3-SVG-Loaders"
+  },
+  {
+    "name": "basicScroll",
+    "desc": "A tool that allows you to change CSS variables depending on the scroll position.",
+    "cat": "Utilities,CSS",
+    "doc": "https://github.com/electerious/basicScroll",
+    "src": "https://basicscroll.electerious.com/"
+  },
+  {
+    "name": "Unused CSS ",
+    "desc": "A tool that scans your website for any unused CSS selectors.",
+    "cat": "Utilities,Generator",
+    "doc": "https://www.jitbit.com/unusedcss/",
+    "src": "https://www.jitbit.com/unusedcss/"
+  },
+  {
+    "name": "Purgecss",
+    "desc": "A tool that removes unused CSS from your site.",
+    "cat": "Utilities,CSS",
+    "doc": "https://purgecss.com/",
+    "src": "https://github.com/FullHuman/purgecss"
+  },
+  {
+    "name": "sanitize",
+    "desc": "This CSS library corrects broken and missing styles.",
+    "cat": "Utilities,Base,Reset,Normalize,CSS",
+    "doc": "https://csstools.github.io/sanitize.css/",
+    "src": "https://csstools.github.io/sanitize.css/latest/sanitize.css"
+  },
+  {
+    "name": "CSS Gridish",
+    "desc": "Build a Sketch file and CSS Grid code from your project’s specs.",
+    "cat": "Utilities,Extention",
+    "doc": "https://ibm.github.io/css-gridish/",
+    "src": "https://github.com/ibm/css-gridish"
+  },
+  {
+    "name": "OptiCSS",
+    "desc": "A template-aware CSS optimizer.",
+    "cat": "Utilities,CSS",
+    "doc": "https://github.com/linkedin/opticss",
+    "src": "https://github.com/linkedin/opticss/archive/refs/heads/master.zip"
+  },
+  {
+    "name": "Mort",
+    "desc": "A tool for detecting “dead” CSS.",
+    "cat": "Utilities,CSS",
+    "doc": "https://github.com/joereynolds/mort",
+    "src": "https://github.com/joereynolds/mort/archive/refs/heads/master.zip"
+  },
+  {
+    "name": "Wave",
+    "desc": "Create wave snippet.",
+    "cat": "Utilities,Generator,CSS",
+    "doc": "https://getwaves.io/",
+    "src": "https://getwaves.io/"
+  },
+  {
+    "name": "Shape",
+    "desc": "Create shape snippet.",
+    "cat": "Utilities,Generator,CSS",
+    "doc": "https://www.blobmaker.app/",
+    "src": "https://www.blobmaker.app/"
+  },
+  {
+    "name": "Color Palette",
+    "desc": "Refference color palette.",
+    "cat": "Utilities,Generator,CSS",
+    "doc": "https://coolors.co/",
+    "src": "https://coolors.co/"
+  },
+  {
+    "name": "CSS Gradient",
+    "desc": "Color Snippet for css",
+    "cat": "Utilities,Generator,CSS",
+    "doc": "https://cssgradient.io/",
+    "src": "https://cssgradient.io/"
+  },
+  {
+    "name": "Ultimate Css Gradient",
+    "desc": "Color Snippet for css",
+    "cat": "Utilities,Generator,Extention,CSS",
+    "doc": "https://www.colorzilla.com/gradient-editor/",
+    "src": "https://www.colorzilla.com/gradient-editor/"
+  },
+  {
+    "name": "Instagram",
+    "desc": "A complete set of Instagram filters in pure CSS.",
+    "cat": "ImageEffects,CSS",
+    "doc": "https://picturepan2.github.io/instagram.css/",
+    "src": "https://github.com/picturepan2/instagram.css"
+  },
+  {
+    "name": "Pure CSS Halftone Effect ",
+    "desc": "How to create a mesmerizing effect with CSS.",
+    "cat": "ImageEffects,CSS",
+    "doc": "https://marco.blog/en/2018/02/pure-css-halftone-effect/",
+    "src": "https://codepen.io/coreh/pen/LQJBLa"
+  },
+  {
+    "name": "CSS Glitch Effect",
+    "desc": "Mary Lou shares an experimental glitch effect powered by CSS animations and the clip-path property.",
+    "cat": "ImageEffects,CSS",
+    "doc": "https://tympanus.net/codrops/2017/12/21/css-glitch-effect/",
+    "src": "https://tympanus.net/codrops/2017/12/21/css-glitch-effect/"
+  },
+  {
+    "name": "Direction Aware Hover Effects",
+    "desc": "Nifty CSS/JS hover effects based on the direction a user is coming from.",
+    "cat": "ImageEffects,CSS",
+    "doc": "https://css-tricks.com/direction-aware-hover-effects/",
+    "src": "https://css-tricks.com/direction-aware-hover-effects/"
+  },
+  {
+    "name": "Atomic Bulldog Grid",
+    "desc": "A CSS Grid layout, with partial fallback to Flexbox.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://vinceumo.github.io/atomic-bulldog-grid/",
+    "src": "https://vinceumo.github.io/atomic-bulldog-grid/"
+  },
+  {
+    "name": "60GS",
+    "desc": "A 60-column CSS Grid starter kit.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://vladocar.github.io/60gs/",
+    "src": "https://vladocar.github.io/60gs/"
+  },
+  {
+    "name": "Teutonic CSS",
+    "desc": "A modern CSS framework that weighs in at just 12KB.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://teutonic.co/",
+    "src": "https://teutonic.co/"
+  },
+  {
+    "name": "ModestaCSS",
+    "desc": "A clean CSS framework that is both dark and responsive.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://github.com/AlexFlipnote/Modesta",
+    "src": "https://github.com/AlexFlipnote/Modesta"
+  },
+  {
+    "name": "Flat Remix CSS Library",
+    "desc": "A set of predesigned elements that make for faster development.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://drasite.com/flat-remix-css",
+    "src": "https://drasite.com/flat-remix-css"
+  },
+  {
+    "name": "FICTOAN",
+    "desc": "An intuitive SCSS framework that also moonlights as a UI kit.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://sujan-s.github.io/fictoan/",
+    "src": "https://sujan-s.github.io/fictoan/"
+  },
+  {
+    "name": "Mustard UI",
+    "desc": "Billed as a CSS framework that “actually looks good”.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://kylelogue.github.io/mustard-ui/docs/installation/index.html",
+    "src": "https://kylelogue.github.io/mustard-ui/index.html"
+  },
+  {
+    "name": "Material",
+    "desc": "This framework combines Bootstrap 4 with Google’s Material Design.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://daemonite.github.io/material/",
+    "src": "https://daemonite.github.io/material/"
+  },
+  {
+    "name": "Smart CSS Grid",
+    "desc": "A minimal and responsive CSS Grid system.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://vladocar.github.io/SMART-CSS-GRID/",
+    "src": "https://vladocar.github.io/SMART-CSS-GRID/"
+  },
+  {
+    "name": "Biomatic UI",
+    "desc": "A flexible atomic-focused CSS framework.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://github.com/moonrhythm/biomatic",
+    "src": "https://github.com/moonrhythm/biomatic"
+  },
+  {
+    "name": "Tailwind CSS",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://tailwindcss.com/docs",
+    "src": "https://tailwindcss.com/docs/installation"
+  },
+  {
+    "name": "PaperCSS",
+    "desc": "The less formal CSS framework.",
+    "cat": "LayoutFrameworks,CSS",
+    "doc": "https://www.getpapercss.com/",
+    "src": "https://www.getpapercss.com/"
+  },
+  {
+    "name": "Frow CSS",
+    "desc": "An open source HTML & CSS framework using Flexbox.",
+    "cat": "FlexboxFrameworks,CSS",
+    "doc": "https://frowcss.com/index.html",
+    "src": "https://frowcss.com/index.html"
+  },
+  {
+    "name": "Cirrus",
+    "desc": "A responsive CSS framework that uses Flexbox.",
+    "cat": "FlexboxFrameworks,CSS",
+    "doc": "https://spiderpig86.github.io/Cirrus/",
+    "src": "https://spiderpig86.github.io/Cirrus/"
+  },
+  {
+    "name": "Butter Cake",
+    "desc": "An open source CSS framework that is based on Flexbox.",
+    "cat": "FlexboxFrameworks,CSS",
+    "doc": "https://himasrafeek.github.io/butterCake/",
+    "src": "https://himasrafeek.github.io/butterCake/"
+  },
+  {
+    "name": "Flexit",
+    "desc": "A simple and clean CSS Flexbox grid.",
+    "cat": "FlexboxFrameworks,CSS",
+    "doc": "https://flexit.fit/",
+    "src": "https://flexit.fit/install/"
+  },
+  {
+    "name": "Strawberry",
+    "desc": "A light-weight CSS Flexbox framework.",
+    "cat": "FlexboxFrameworks,CSS",
+    "doc": "https://github.com/jfet97/strawberry",
+    "src": "https://github.com/jfet97/strawberry"
+  },
+  {
+    "name": "Katana.scss",
+    "desc": "A CSS Flexbox-based layout system.",
+    "cat": "FlexboxFrameworks,CSS",
+    "doc": "https://github.com/vladocar/Katana",
+    "src": "https://github.com/vladocar/Katana"
+  },
+  {
+    "name": "Flexible Grid",
+    "desc": "A framework that will help you implement CSS Flexbox.",
+    "cat": "FlexboxFrameworks,CSS",
+    "doc": "https://www.flexible-grid.com/",
+    "src": "https://www.flexible-grid.com/"
+  },
+  {
+    "name": "FlexBox Parent Attribute Visualizer",
+    "desc": "An interactive way to see the effect of various CSS Flexbox settings.",
+    "cat": "Generators,CSS",
+    "doc": "https://codepen.io/AnchorIdeas/full/GQbrgp/",
+    "src": "https://codepen.io/AnchorIdeas/full/GQbrgp/"
+  },
+  {
+    "name": "Fancy Border Radius Generator",
+    "desc": "A tool that goes beyond the basic rounded corners.",
+    "cat": "Generators,CSS",
+    "doc": "https://9elements.github.io/fancy-border-radius/",
+    "src": "https://9elements.github.io/fancy-border-radius/"
+  },
+  {
+    "name": "TinyEditor",
+    "desc": "Edit HTML/CSS/JS with this super-light app.",
+    "cat": "Generators,CSS",
+    "doc": "https://github.com/umpox/TinyEditor",
+    "src": "https://github.com/umpox/TinyEditor"
+  },
+  {
+    "name": "css-doodle",
+    "desc": "A web-based tool for drawing patterns with CSS.",
+    "cat": "Generators,CSS",
+    "doc": "https://css-doodle.com/",
+    "src": "https://css-doodle.com/"
+  },
+  {
+    "name": "Fonty",
+    "desc": "A tool for testing web fonts directly on a live website.",
+    "cat": "Generators,CSS",
+    "doc": "https://fonty.dizoo.bg/",
+    "src": "https://fonty.dizoo.bg/"
+  },
+  {
+    "name": "CSS Duotone Generator",
+    "desc": "Create an awesome, customized duotone image with HTML and CSS.",
+    "cat": "Generators,CSS",
+    "doc": "https://cssduotone.com/",
+    "src": "https://cssduotone.com/"
+  },
+  {
+    "name": "StyleURL",
+    "desc": "A tool that allows for making changes to CSS collaboratively.",
+    "cat": "Generators,CSS",
+    "doc": "https://github.com/Jarred-Sumner/styleurl-extension",
+    "src": "https://github.com/Jarred-Sumner/styleurl-extension"
+  },
+  {
+    "name": "Gradient Joy",
+    "desc": "Use gradients as placeholder images.",
+    "cat": "Generators,CSS",
+    "doc": "https://gradientjoy.com/",
+    "src": "https://gradientjoy.com/"
+  },
+  {
+    "name": "Font Playground",
+    "desc": "A place to play with variable fonts.",
+    "cat": "Generators,CSS",
+    "doc": "https://gradientjoy.com/",
+    "src": "https://gradientjoy.com/"
+  },
+  {
+    "name": "Keyframes.app",
+    "desc": "A web app and Chrome extension for creating CSS animations.",
+    "cat": "Generators,CSS",
+    "doc": "https://keyframes.app/",
+    "src": "https://keyframes.app/"
+  },
+  {
+    "name": "CSS Alignment Cheatsheet",
+    "desc": "A nicely-illustrated guide to aligning all the things.",
+    "cat": "Generators,CSS",
+    "doc": "https://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/",
+    "src": "https://patrickbrosset.com/lab/2018-01-10-css-alignment-cheatsheet/"
+  },
+  {
+    "name": "Clippy",
+    "desc": "An online tool you can use to create a CSS clip-path.",
+    "cat": "Generators,CSS",
+    "doc": "https://bennettfeely.com/clippy/",
+    "src": "https://bennettfeely.com/clippy/"
+  },
+  {
+    "name": "Trianglify.io",
+    "desc": "Generate custom low poly patterns in PNG or SVG format.",
+    "cat": "Generators,CSS",
+    "doc": "https://trianglify.io/",
+    "src": "https://trianglify.io/"
+  },
+  {
+    "name": "CSSGR",
+    "desc": "An interactive CSS Grid generator.",
+    "cat": "Generators,CSS",
+    "doc": "https://cssgr.id/",
+    "src": "https://cssgr.id/"
+  },
+  {
+    "name": "Layoutit!",
+    "desc": "An interactive CSS Grid building tool.",
+    "cat": "Generators,CSS",
+    "doc": "https://www.layoutit.com/grid",
+    "src": "https://www.layoutit.com/grid"
+  },
+  {
+    "name": "Gradientify",
+    "desc": "Generators,CSS",
+    "cat": "A collection of top gradients with copy and paste CSS code.",
+    "doc": "https://github.com/karolsw3/gradientify",
+    "src": "https://github.com/karolsw3/gradientify"
+  },
+  {
+    "name": "CSS Layout cookbook",
+    "desc": "Access “recipes” for building common layouts.",
+    "cat": "Learn,CSS",
+    "doc": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook",
+    "src": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook"
+  },
+  {
+    "name": "Guidelines for Brutalist Web Design",
+    "desc": "Implementing brutalist design the right way.",
+    "cat": "Learn,CSS",
+    "doc": "https://brutalist-web.design/",
+    "src": "https://brutalist-web.design/"
+  },
+  {
+    "name": "Accessibility Cheatsheet",
+    "desc": "A handy checklist for ensuring your designs are accessible to all.",
+    "cat": "Learn,CSS",
+    "doc": "https://moritzgiessmann.de/accessibility-cheatsheet/",
+    "src": "https://moritzgiessmann.de/accessibility-cheatsheet/"
+  },
+  {
+    "name": "MODALZ MODALZ MODALZ",
+    "desc": "A guide for when to use modals (and when not to).",
+    "cat": "Learn,CSS",
+    "doc": "https://modalzmodalzmodalz.com/#content",
+    "src": "https://modalzmodalzmodalz.com/#content"
+  },
+  {
+    "name": "GRID",
+    "desc": "A visual cheatsheet for CSS Grid.",
+    "cat": "Learn,CSS",
+    "doc": "https://grid.malven.co/",
+    "src": "https://grid.malven.co/"
+  },
+  {
+    "name": "A11Y Style Guide",
+    "desc": "A living pattern library with an eye towards accessibility.",
+    "cat": "Learn,CSS",
+    "doc": "https://a11y-style-guide.com/style-guide/",
+    "src": "https://a11y-style-guide.com/style-guide/"
+  },
+  {
+    "name": "The Font Loading Checklist",
+    "desc": "A list to help you maximize performance and the user experience.",
+    "cat": "Learn,CSS",
+    "doc": "https://www.zachleat.com/web/font-checklist/",
+    "src": "https://www.zachleat.com/web/font-checklist/"
+  },
+  {
+    "name": "What is Modular CSS?",
+    "desc": "A detailed guide writing CSS at scale.",
+    "cat": "Learn,CSS",
+    "doc": "https://spaceninja.com/2018/09/18/what-is-modular-css/",
+    "src": "https://spaceninja.com/2018/09/18/what-is-modular-css/"
+  },
+  {
+    "name": "Learn Flexbox",
+    "desc": "Online tool that demonstrates the various properties of CSS Flexbox.",
+    "cat": "Learn,CSS",
+    "doc": "https://www.learnflexbox.org/",
+    "src": "https://www.learnflexbox.org/"
+  },
+  {
+    "name": "CSS Cheat Sheet",
+    "desc": "A well put together reference of CSS properties.",
+    "cat": "Learn,CSS",
+    "doc": "https://adam-marsden.co.uk/css-cheat-sheet",
+    "src": "https://adam-marsden.co.uk/css-cheat-sheet"
+  },
+  {
+    "name": "Front-End Design Checklist",
+    "desc": "An exhaustive list of elements to help you ensure quality in design.",
+    "cat": "Learn,CSS",
+    "doc": "https://github.com/thedaviddias/Front-End-Design-Checklist",
+    "src": "https://github.com/thedaviddias/Front-End-Design-Checklist"
+  },
+  {
+    "name": "Grid to Flex",
+    "desc": "CSS Flexbox fallbacks for projects using CSS Grid.",
+    "cat": "Learn,CSS",
+    "doc": "https://www.gridtoflex.com/",
+    "src": "https://www.gridtoflex.com/"
+  },
+  {
+    "name": "Component Based Design System With Tachyons",
+    "desc": "Introduction to a functional CSS framework / design system.",
+    "cat": "Learn,CSS",
+    "doc": "https://varun.ca/tachyons-components/",
+    "src": "https://varun.ca/tachyons-components/"
+  },
+  {
+    "name": "30 Seconds of CSS",
+    "desc": "A curated collection of useful CSS snippets you can understand in 30 seconds or less.",
+    "cat": "Learn,CSS",
+    "doc": "https://atomiks.github.io/30-seconds-of-css/",
+    "src": "https://atomiks.github.io/30-seconds-of-css/"
+  },
+  {
+    "name": "100 Days CSS Challenge",
+    "desc": "Create something unique and sharpen your skills.",
+    "cat": "Learn,CSS",
+    "doc": "https://100dayscss.com/",
+    "src": "https://100dayscss.com/"
+  },
+  {
+    "name": "How CSS works: Understanding the cascade",
+    "desc": "Learn one of the true fundamentals of CSS for more efficient code.",
+    "cat": "Learn,CSS",
+    "doc": "https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8/",
+    "src": "https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8/"
+  },
+  {
+    "name": "Manageable Utility Systems with CSS Variables",
+    "desc": "A look at the difference between Sass variables and new CSS variables.",
+    "cat": "Learn,CSS",
+    "doc": "https://sparkbox.com/foundry/manageable_utility_systems_with_css_variables",
+    "src": "https://sparkbox.com/foundry/manageable_utility_systems_with_css_variables"
+  },
+  {
+    "name": "Piano Keyboard",
+    "desc": "Thanks to this CSS/JS site, you can play piano on your keyboard or mouse.",
+    "cat": "Creations,CSS",
+    "doc": "https://piano.felipefialho.com/",
+    "src": "https://piano.felipefialho.com/"
+  },
+  {
+    "name": "CSS Snake & Ladders",
+    "desc": "A multi-player game developed with HTML and CSS.",
+    "cat": "Creations,CSS",
+    "doc": "https://codepen.io/alvaromontoro/pen/gjWPNW",
+    "src": "https://codepen.io/alvaromontoro/pen/gjWPNW"
+  },
+  {
+    "name": "Solar System Explorer in CSS",
+    "desc": "View this simulation, built without a single bit of JavaScript.",
+    "cat": "Creations,CSS",
+    "doc": "https://codepen.io/jcoulterdesign/full/ZxXbeP/",
+    "src": "https://codepen.io/jcoulterdesign/full/ZxXbeP/"
+  },
+  {
+    "name": "Pure CSS Francine",
+    "desc": "A HTML/CSS rendering of an 18th-century oil painting.",
+    "cat": "Creations,CSS",
+    "doc": "https://github.com/cyanharlow/purecss-francine",
+    "src": "https://github.com/cyanharlow/purecss-francine"
+  },
+  {
+    "name": "Air Bomb",
+    "desc": "A fun game written with pure CSS (no JS required).",
+    "cat": "Creations,CSS",
+    "doc": "https://codepen.io/chaofix/full/oegBEJ/",
+    "src": "https://codepen.io/chaofix/full/oegBEJ/"
+  },
+  {
+    "name": "normalize.css",
+    "desc": "Modern, HTML5-ready alternative to CSS resets.",
+    "cat": "Base,Reset,Normalize,CSS",
+    "doc": "https://necolas.github.io/normalize.css/",
+    "src": "https://necolas.github.io/normalize.css/"
+  },
+  {
+    "name": "minireset.css",
+    "desc": "Tiny modern CSS reset. ",
+    "cat": "Base,Reset,Normalize,CSS",
+    "doc": "https://jgthms.com/minireset.css/",
+    "src": "https://jgthms.com/minireset.css/"
+  },
+  {
+    "name": "inuitcss",
+    "desc": "Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.",
+    "cat": "Base,Reset,Normalize,CSS,SCSS",
+    "doc": "https://github.com/inuitcss/inuitcss",
+    "src": "https://github.com/inuitcss/inuitcss"
+  },
+  {
+    "name": "modern-css-reset",
+    "desc": "Tiny little reset that you can use as the basis of your CSS projects.  ",
+    "cat": "Base,Reset,Normalize,CSS",
+    "doc": "https://github.com/hankchizljaw/modern-css-reset",
+    "src": "https://github.com/hankchizljaw/modern-css-reset"
+  },
+  {
+    "name": "ress",
+    "desc": "Modern CSS reset.",
+    "cat": "Base,Reset,Normalize,CSS",
+    "doc": "https://github.com/filipelinhares/ress",
+    "src": "https://github.com/filipelinhares/ress"
+  },
+  {
+    "name": "modern-normalize",
+    "desc": "Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).",
+    "cat": "Base,Reset,Normalize,CSS",
+    "doc": "https://github.com/sindresorhus/modern-normalize",
+    "src": "https://github.com/sindresorhus/modern-normalize"
+  },
+  {
+    "name": "Natural Selection",
+    "desc": "Collection of best-practice CSS selectors.",
+    "cat": "Base,Reset,Normalize,CSS",
+    "doc": "https://github.com/frontaid/natural-selection",
+    "src": "https://github.com/frontaid/natural-selection"
+  },
+  {
+    "name": "Water.css",
+    "desc": "Just-add-CSS collection of styles to make simple websites just a little nicer.",
+    "cat": "Classless,CSS",
+    "doc": "https://watercss.kognise.dev/",
+    "src": "https://watercss.kognise.dev/"
+  },
+  {
+    "name": "MVP.css",
+    "desc": "Minimalist stylesheet for HTML elements.",
+    "cat": "Classless,CSS",
+    "doc": "https://andybrewer.github.io/mvp/",
+    "src": "https://andybrewer.github.io/mvp/"
+  },
+  {
+    "name": "sakura",
+    "desc": "Minimal classless CSS framework/theme.",
+    "cat": "Classless,CSS,SCSS",
+    "doc": "https://oxal.org/projects/sakura/demo/",
+    "src": "https://oxal.org/projects/sakura/"
+  },
+  {
+    "name": "Marx",
+    "desc": "Classless CSS reset.",
+    "cat": "Classless,CSS,SCSS",
+    "doc": "https://mblode.github.io/marx/documentation/",
+    "src": "https://mblode.github.io/marx/"
+  },
+  {
+    "name": "Tacit",
+    "desc": "CSS framework for dummies, without classes.",
+    "cat": "Classless,CSS,SCSS",
+    "doc": "https://yegor256.github.io/tacit/",
+    "src": "https://yegor256.github.io/tacit/"
+  },
+  {
+    "name": "awsm.css",
+    "desc": "CSS library for semantic HTML markup without classes, attributes, etc.",
+    "cat": "Classless,CSS,SCSS",
+    "doc": "https://igoradamenko.github.io/awsm.css/elements.html",
+    "src": "https://igoradamenko.github.io/awsm.css/"
+  },
+  {
+    "name": "Pure",
+    "desc": "Set of small, responsive CSS modules that you can use in every web project. ",
+    "cat": "Lightweight,CSS",
+    "doc": "https://purecss.io/start/",
+    "src": "https://github.com/pure-css/pure"
+  },
+  {
+    "name": "Milligram",
+    "desc": "Minimalist CSS framework.",
+    "cat": "Lightweight,CSS,SASS",
+    "doc": "https://milligram.io/#getting-started",
+    "src": "https://github.com/milligram/milligram"
+  },
+  {
+    "name": "Picnic CSS",
+    "desc": "Lightweight and beautiful library.",
+    "cat": "Lightweight,CSS,SCSS",
+    "doc": "https://picnicss.com/documentation",
+    "src": "https://github.com/franciscop/picnic"
+  },
+  {
+    "name": "Chota",
+    "desc": "Really small CSS framework.",
+    "cat": "Lightweight,CSS",
+    "doc": "https://jenil.github.io/chota/#docs",
+    "src": "https://github.com/jenil/chota"
+  },
+  {
+    "name": "Bootstrap",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "cat": "General,CSS,SCSS",
+    "doc": "https://getbootstrap.com/docs/",
+    "src": "https://github.com/twbs/bootstrap/releases/"
+  },
+  {
+    "name": "Bulma",
+    "desc": "Modern CSS framework based on Flexbox.",
+    "cat": "General,CSS,SASS",
+    "doc": "https://bulma.io/documentation/overview/start/",
+    "src": "https://github.com/jgthms/bulma"
+  },
+  {
+    "name": "Foundation",
+    "desc": "The most advanced responsive front-end framework in the world.",
+    "cat": "General,CSS,SCSS",
+    "doc": "https://get.foundation/sites/docs/",
+    "src": "https://github.com/foundation/foundation-sites"
+  },
+  {
+    "name": "UIkit",
+    "desc": "Lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "cat": "General,CSS,LESS,SCSS",
+    "doc": "https://getuikit.com/docs/introduction",
+    "src": "https://github.com/uikit/uikit"
+  },
+  {
+    "name": "Spectre.css",
+    "desc": "Lightweight, responsive and modern CSS framework.",
+    "cat": "General,CSS,SCSS",
+    "doc": "https://picturepan2.github.io/spectre/getting-started.html",
+    "src": "https://github.com/picturepan2/spectre"
+  },
+  {
+    "name": "Primer",
+    "desc": "CSS framework that powers GitHub's front-end design.",
+    "cat": "General,CSS,SCSS",
+    "doc": "https://styleguide.github.com/primer/",
+    "src": "https://github.com/primer/css"
+  },
+  {
+    "name": "Carbon Components",
+    "desc": "Component library behind IBM's Carbon Design System.",
+    "cat": "General,CSS,SCSS",
+    "doc": "https://www.carbondesignsystem.com/components/overview/",
+    "src": "https://github.com/carbon-design-system/carbon"
+  },
+  {
+    "name": "Fomantic-UI",
+    "desc": "Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.",
+    "cat": "General,CSS,LESS",
+    "doc": "https://fomantic-ui.com/introduction/getting-started.html",
+    "src": "https://github.com/fomantic/fomantic-ui/"
+  },
+  {
+    "name": "Blaze UI",
+    "desc": "Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.",
+    "cat": "General,CSS,SCSS",
+    "doc": "https://www.blazeui.com/getting-started/install/)",
+    "src": "https://github.com/BlazeSoftware/atoms"
+  },
+  {
+    "name": "PatternFly",
+    "desc": "UI framework for enterprise web applications.",
+    "cat": "General,CSS,SCSS,LESS",
+    "doc": "https://www.patternfly.org/get-started/",
+    "src": "https://github.com/patternfly/patternfly"
+  },
+  {
+    "name": "Base",
+    "desc": "Rock solid, responsive HTML/CSS framework.",
+    "cat": "General,CSS,SCSS,LESS",
+    "doc": "https://github.com/getbase/base/blob/master/readme.md#documentation",
+    "src": "https://github.com/getbase/base"
+  },
+  {
+    "name": "turretcss",
+    "desc": "Responsive front-end framework for accessible and semantic websites.",
+    "cat": "General,CSS",
+    "doc": "https://turretcss.com/getting-started/",
+    "src": "https://github.com/turretcss/turretcss"
+  },
+  {
+    "name": "Cirrus",
+    "desc": "Responsive and comprehensive CSS framework with beautiful controls and simplistic structure.",
+    "cat": "General,CSS",
+    "doc": "https://spiderpig86.github.io/Cirrus/docs/",
+    "src": "https://github.com/Spiderpig86/Cirrus"
+  },
+  {
+    "name": "HiQ",
+    "desc": "Simple CSS foundation with responsive typography and input styling.",
+    "cat": "General,CSS,PostCSS",
+    "doc": "https://jonathanharrell.github.io/hiq/guide/",
+    "src": "https://github.com/jonathanharrell/hiq/"
+  },
+  {
+    "name": "Material Components Web",
+    "desc": "Modular and customizable Material Design UI components for the web.",
+    "cat": "MaterialDesign,CSS,SCSS",
+    "doc": "https://material.io/develop/web/getting-started",
+    "src": "https://github.com/material-components/material-components-web"
+  },
+  {
+    "name": "Materialize",
+    "desc": "CSS framework based on material design.",
+    "cat": "MaterialDesign,CSS,SCSS",
+    "doc": "https://materializecss.com/getting-started.html",
+    "src": "https://github.com/Dogfalo/materialize"
+  },
+  {
+    "name": "MUI",
+    "desc": "Lightweight CSS framework that follows Google's Material Design guidelines.",
+    "cat": "MaterialDesign,CSS,SCSS",
+    "doc": "https://www.muicss.com/docs/v1/getting-started/introduction",
+    "src": "https://github.com/muicss/mui"
+  },
+  {
+    "name": "Tailwind CSS",
+    "desc": "Utility-first CSS framework for rapid UI development.",
+    "cat": "Utilities,CSS",
+    "doc": "https://tailwindcss.com/docs",
+    "src": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "name": "Tachyons",
+    "desc": "Quickly build and design new UI without writing CSS.",
+    "cat": "Utilities,CSS",
+    "doc": "https://tachyons.io/docs/",
+    "src": "https://github.com/tachyons-css/tachyons/"
+  },
+  {
+    "name": "NES",
+    "desc": "NES-style CSS Framework. ",
+    "cat": "Specialized,CSS",
+    "doc": "https://github.com/nostalgic-css/NES.css#installation",
+    "src": "https://github.com/nostalgic-css/NES.css"
+  },
+  {
+    "name": "98.css",
+    "desc": "CSS library for building interfaces that look like Windows 98.",
+    "cat": "Specialized,CSS,SCSS",
+    "doc": "https://github.com/jdan/98.css",
+    "src": "https://github.com/jdan/98.css"
+  },
+  {
+    "name": "Gutenberg",
+    "desc": "Modern framework to print the web correctly.",
+    "cat": "Specialized,CSS,SCSS",
+    "doc": "https://github.com/BafS/Gutenberg",
+    "src": "https://github.com/BafS/Gutenberg"
+  },
+  {
+    "name": "Tufte CSS",
+    "desc": "Style your webpage like Edward Tufte’s handouts.",
+    "cat": "Specialized,CSS,SCSS",
+    "doc": "https://bojler.slicejack.com/documentation/getting-started/",
+    "src": "https://github.com/Slicejack/bojler"
+  },
+  {
+    "name": "TuiCss",
+    "desc": "Library to create MS-DOS interfaces.",
+    "cat": "Specialized,CSS,SCSS",
+    "doc": "https://github.com/vinibiavatti1/TuiCss/wiki",
+    "src": "https://github.com/vinibiavatti1/TuiCss"
+  },
+  {
+    "name": "Bourbon",
+    "desc": "Lightweight Sass tool set.",
+    "cat": "Toolkits,CSS,SCSS",
+    "doc": "https://www.bourbon.io/docs/latest/",
+    "src": "https://github.com/thoughtbot/bourbon/"
+  },
+  {
+    "name": "Semantic UI",
+    "desc": "User interface is the language of the web.",
+    "cat": "StalledDevelopment,CSS,LESS",
+    "doc": "https://semantic-ui.com/introduction/getting-started.html",
+    "src": "https://github.com/semantic-org/semantic-ui"
+  },
+  {
+    "name": "Flexbox Grid",
+    "desc": "Grid based on CSS3 flexbox.",
+    "cat": "StalledDevelopment,CSS",
+    "doc": "https://github.com/kristoferjoseph/flexboxgrid",
+    "src": "https://github.com/kristoferjoseph/flexboxgrid"
+  },
+  {
+    "name": "Basscss",
+    "desc": "Low-level CSS toolkit.",
+    "cat": "StalledDevelopment,CSS",
+    "doc": "https://github.com/basscss/basscss/",
+    "src": "https://github.com/basscss/basscss/"
+  },
+  {
+    "name": "Neat",
+    "desc": "Lightweight and flexible Sass grid.",
+    "cat": "StalledDevelopment,CSS,SCSS",
+    "doc": "https://neat.bourbon.io/docs/latest/",
+    "src": "https://github.com/thoughtbot/neat"
+  },
+  {
+    "name": "mini.css",
+    "desc": "Minimal, responsive, style-agnostic CSS framework.",
+    "cat": "StalledDevelopment,CSS,SCSS",
+    "doc": "https://minicss.org/docs",
+    "src": "https://github.com/Chalarangelo/mini.css"
+  },
+  {
+    "name": "Mobi.css",
+    "desc": "Lightweight, scalable, mobile-first CSS framework.",
+    "cat": "StalledDevelopment,CSS",
+    "doc": "https://getmobicss.com/docs/introduction.html",
+    "src": "https://github.com/mobi-css/mobi.css"
+  },
+  {
+    "name": "Wing",
+    "desc": "Beautiful CSS framework designed for minimalists.",
+    "cat": "StalledDevelopment,CSS,STYLUS",
+    "doc": "https://kbrsh.github.io/wing/#installation",
+    "src": "https://github.com/kbrsh/wing"
+  },
+  {
+    "name": "Cutestrap",
+    "desc": "Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.",
+    "cat": "StalledDevelopment,CSS",
+    "doc": "https://github.com/tylerchilds/cutestrap",
+    "src": "https://github.com/tylerchilds/cutestrap"
+  },
+  {
+    "name": "unsemantic",
+    "desc": "Fluid grid for mobile, tablet, and desktop.",
+    "cat": "StalledDevelopment,CSS,SCSS",
+    "doc": "https://unsemantic.com/css-documentation",
+    "src": "https://github.com/nathansmith/unsemantic"
+  },
+  {
+    "name": "Propeller",
+    "desc": "Front-end responsive framework based on Google's Material Design standards & Bootstrap.",
+    "cat": "StalledDevelopment,CSS,SCSS",
+    "doc": "https://propeller.in/frameworks/open-source/get-started/",
+    "src": "https://github.com/digicorp/propeller"
+  },
+  {
+    "name": "Concise CSS",
+    "desc": "Give up the bloat. Stop tripping over your classes. Be concise.",
+    "cat": "StalledDevelopment,CSS,SCSS",
+    "doc": "https://concisecss.com/documentation/",
+    "src": "https://github.com/ConciseCSS/concise.css"
+  },
+  {
+    "name": "Responsive Boilerplate",
+    "desc": "Powerful, accessible, developer friendly framework for building responsive websites.",
+    "cat": "StalledDevelopment,CSS,SCSS",
+    "doc": "https://responsivebp.com/getting-started/",
+    "src": "https://github.com/responsivebp/responsive"
+  },
+  {
+    "name": "Centurion",
+    "desc": "Web-based framework for rapid prototyping and building larger web projects.",
+    "cat": "StalledDevelopment,CSS",
+    "doc": "https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md",
+    "src": "https://github.com/justinhough/Centurion"
+  }
+]

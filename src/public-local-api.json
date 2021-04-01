@@ -1,0 +1,702 @@
+[
+  {
+    "api": "Wikipedia API",
+    "desc": "API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan subdomain dengan format 'id' contoh : https://id.wikipedia.org/w/api.php",
+    "cat": "Umum",
+    "auth": "Tidak",
+    "url": "https://www.mediawiki.org/wiki/API:Tutorial"
+  },
+  {
+    "api": "Info Gempa API",
+    "desc": "API untuk mendapatkan informasi gempa terkini dari website bmkg",
+    "cat": "Umum",
+    "auth": "Tidak",
+    "url": "https://github.com/Zhirrr/gempa-rest-api"
+  },
+  {
+    "api": "Cerpenmu.com API",
+    "desc": "Mendapatkan cerpen secara random dari situs cerpenmu.com",
+    "cat": "Umum",
+    "auth": "Tidak",
+    "url": "https://fdci.se/cerpenmu-com-api-random-cerpen/"
+  },
+  {
+    "api": "Jadwal Sholat",
+    "desc": "Jadwal sholat berdasarkan kota/kabupaten di Indonesia",
+    "cat": "Umum",
+    "auth": "Tidak",
+    "url": "https://github.com/lakuapik/jadwalsholatorg"
+  },
+  {
+    "api": "Ceramah API",
+    "desc": "Menyajikan Berbagai Kajian/Ceramah Dari Ustadz/Ulama Di Indonesia",
+    "cat": "Umum",
+    "auth": "Tidak",
+    "url": "https://github.com/zhirrr/ceramah-rest-api-indonesia"
+  },
+  {
+    "api": "Ayo Donor PMI",
+    "desc": "API untuk kegiatan dari PMI mengenai donor darah",
+    "cat": "Umum",
+    "auth": "Tidak",
+    "url": "https://github.com/bachors/apiapi#ayo-donor-pmi"
+  },
+  {
+    "api": "Indonesia news API",
+    "desc": "API untuk mendapatkan update berita di indonesia",
+    "cat": "Berita",
+    "auth": "apiKey",
+    "url": "https://newsapi.org/s/indonesia-news-api"
+  },
+  {
+    "api": "CNN Indonesia",
+    "desc": "API kumpulan berita dari cnn indonesia",
+    "cat": "Berita",
+    "auth": "Tidak",
+    "url": "https://github.com/rizki4106/cnnindonesia-news-api"
+  },
+  {
+    "api": "Berita Indo API",
+    "desc": "Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita di Indonesia",
+    "cat": "Berita",
+    "auth": "Tidak",
+    "url": "https://github.com/satyawikananda/berita-indo-api"
+  },
+  {
+    "api": "The Lazy Media  API",
+    "desc": "API kumpulan berita game dan teknologi dari The Lazy Media",
+    "cat": "Berita",
+    "auth": "Tidak",
+    "url": "https://github.com/NicolaDonoastro/The-Lazy-Media-api"
+  },
+  {
+    "api": "Alquran ID",
+    "desc": "Alquran bahasa indonesia",
+    "cat": "Buku",
+    "auth": "Tidak",
+    "url": "https://github.com/bachors/Al-Quran-ID-API"
+  },
+  {
+    "api": "Quran JSON",
+    "desc": "Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio)",
+    "cat": "Buku",
+    "auth": "Tidak",
+    "url": "https://github.com/penggguna/QuranJSON"
+  },
+  {
+    "api": "Masak Apa",
+    "desc": "Buku resep makanan Indonesia",
+    "cat": "Buku",
+    "auth": "Tidak",
+    "url": "https://github.com/tomorisakura/unofficial-masakapahariini-api"
+  },
+  {
+    "api": "Islamic API",
+    "desc": "Menyimpan Data2 Islami",
+    "cat": "Buku",
+    "auth": "Tidak",
+    "url": "https://github.com/Zhirrr/islamic-rest-api-indonesian"
+  },
+  {
+    "api": "Kisah Nabi API",
+    "desc": "Menyimpan Semua Kisah 25 Nabi Allah SWT",
+    "cat": "Buku",
+    "auth": "Tidak",
+    "url": "https://github.com/Zhirrr/kisahnabi-rest-api-indonesia"
+  },
+  {
+    "api": "Unofficial KBBI API",
+    "desc": "Api Scraper KBBI Beserta Code Sourcenya",
+    "cat": "Buku",
+    "auth": "Tidak",
+    "url": "https://github.com/Zhirrr/KBBI-api"
+  },
+  {
+    "api": "Matahari Mall API for Seller",
+    "desc": "API untuk penjual di Matahari Mall",
+    "cat": "E-Commerce",
+    "auth": "apiKey",
+    "url": "http://docs.apiforseller.apiary.io"
+  },
+  {
+    "api": "Tiket.com API",
+    "desc": "API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain.",
+    "cat": "E-Commerce",
+    "auth": "apiKey",
+    "url": "https://www.tiket.com/affiliate/"
+  },
+  {
+    "api": "Tokopedia.com API",
+    "desc": "API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia ",
+    "cat": "E-Commerce",
+    "auth": "apiKey",
+    "url": "https://developer.tokopedia.com/openapi/guide/"
+  },
+  {
+    "api": "JD.id API",
+    "desc": "API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam JD.id",
+    "cat": "E-Commerce",
+    "auth": "apiKey",
+    "url": "https://api.jd.id/home"
+  },
+  {
+    "api": "Elevenia.co.id API",
+    "desc": "API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Elevenia",
+    "cat": "E-Commerce",
+    "url": "http://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf",
+    "auth": "apiKey"
+  },
+  {
+    "api": "Lazada",
+    "desc": "API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada.",
+    "cat": "E-Commerce",
+    "url": "https://open.lazada.com/doc/doc.htm",
+    "auth": "apiKey"
+  },
+  {
+    "api": "Shopee",
+    "desc": "API resmi Shopee untuk integrasi berbagai layanan dari Shopee.",
+    "cat": "E-Commerce",
+    "auth": "apiKey",
+    "url": "https://open.shopee.com/documents"
+  },
+  {
+    "api": "Bisatopup",
+    "desc": "Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.",
+    "cat": "Finansial",
+    "auth": "apiKey",
+    "url": "http://docs.bisatopup.apiary.io/"
+  },
+  {
+    "api": "Jurnal API",
+    "desc": "API untuk *software* laporan keuangan.",
+    "cat": "Finansial",
+    "auth": "OAuth",
+    "url": "https://api-jurnal.api-docs.io/v1/getting-started/introduction"
+  },
+  {
+    "api": "Midtrans|Payment gateway",
+    "desc": "*Gateway* atau gerbang untuk transaksi pembayaran.",
+    "cat": "Finansial",
+    "auth": "apiKey",
+    "url": "https://midtrans.com/payments"
+  },
+  {
+    "api": "iPaymu",
+    "desc": "*Gateway* atau gerbang untuk transaksi pembayaran.",
+    "cat": "Finansial",
+    "auth": "apiKey",
+    "url": "https://ipaymu.com/dokumentasi-api/"
+  },
+  {
+    "api": "Doku",
+    "desc": "DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.",
+    "cat": "Finansial",
+    "auth": "apiKey",
+    "url": "https://www.doku.com/API/index.html"
+  },
+  {
+    "api": "OVO Unofficial",
+    "desc": "Un-Official ovoid API Wrapper menggunakan PHP",
+    "cat": "Finansial",
+    "auth": "OTP",
+    "url": "https://github.com/lintangtimur/ovoid"
+  },
+  {
+    "api": "ESPAY",
+    "desc": "Payment Gateway Indonesia",
+    "cat": "Finansial",
+    "auth": "apiKey",
+    "url": "https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php"
+  },
+  {
+    "api": "Duitku",
+    "desc": "Payment Gateway Indonesia",
+    "cat": "Finansial",
+    "auth": "apiKey",
+    "url": "https://docs.duitku.com"
+  },
+  {
+    "api": "BCA",
+    "desc": "API Bank BCA",
+    "cat": "Finansial",
+    "auth": "apiKey",
+    "url": "https://developer.bca.co.id/documentation"
+  },
+  {
+    "api": "OJK Investasi API",
+    "desc": "Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan",
+    "cat": "Finansial",
+    "auth": "Tidak",
+    "url": "https://ojk-invest-api.vercel.app/"
+  },
+  {
+    "api": "Hot thread kaskus Unofficial",
+    "desc": "Mendapatkan hot-thread dari [Kaskus]",
+    "cat": "Forum",
+    "auth": "apiKey",
+    "url": "https://api.bayyu.net/"
+  },
+  {
+    "api": "Kaskus API",
+    "desc": "API untuk mengakses forum terkenal di Indonesia - [Kaskus]",
+    "cat": "Forum",
+    "auth": "OAuth",
+    "url": "https://github.com/kaskus/kaskus-php-sdk/wiki"
+  },
+  {
+    "api": "Tanggal Lahiran Pasaran Zodiak",
+    "desc": "Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat.",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak"
+  },
+  {
+    "api": "Film Indonesia",
+    "desc": "List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia ",
+    "cat": "Hiburan",
+    "auth": "apiKey",
+    "url": "https://www.themoviedb.org/documentation/api"
+  },
+  {
+    "api": "Manga/Komik Bahasa Indonesia Unofficial",
+    "desc": "Menyediakan Manga atau Komik bahasa Indonesia",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/febryardiansyah/manga-api"
+  },
+  {
+    "api": "Otakudesu API Unofficial",
+    "desc": "Menyediakan anime dengan subtitle Bahasa Indonesia",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/Kaede-No-Ki/otakudesu-rest-api"
+  },
+  {
+    "api": "Anitop API | Anitrendz API Unofficial",
+    "desc": "Sebuah API yang menampilkan data-data anime, musik anime, karakter, dll yang sedang trending pada musim ini",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/satyawikananda/anitop"
+  },
+  {
+    "api": "Klasemen Sepak Bola",
+    "desc": "Realtime klasemen sepak bola e.g EPL, La Liga dll",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/azharimm/football-standings-api"
+  },
+  {
+    "api": "Spesifikasi HP",
+    "desc": "Spesifikasi HP data dari gsm arena",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/azharimm/phone-specs-api"
+  },
+  {
+    "api": "Scathach API",
+    "desc": "Massive Anime Art dengan fitur SFW dan NSFW",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/sinkaroid/scathach-api"
+  },
+  {
+    "api": "Wallpapers API",
+    "desc": "Menampilkan Banyak Wallpaper Unik HD/4K Gratis !",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/Zhirrr/wallpaper-rest-api-indonesia"
+  },
+  {
+    "api": "FILMAPIK API Unofficial",
+    "desc": "Menampilkan data movie beserta link video google drive",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/devnazir/api-filmapik"
+  },
+  {
+    "api": "Strygwyr Dota 2 API",
+    "desc": "Menampilkan data hero status untuk game Dota 2",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/sinkaroid/strygwyr"
+  },
+  {
+    "api": "LK21 API Unofficial",
+    "desc": "Menampilkan data movie dari situs LK21",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/devnazir/api-lk21"
+  },
+  {
+    "api": "Bioskop API",
+    "desc": "Menampilkan data movie Bioskop, serta daftar bioskop di Indonesia",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/Zhirrr/Bioskop-Api"
+  },
+  {
+    "api": "Cabul API",
+    "desc": "Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits",
+    "cat": "Hiburan",
+    "auth": "Tidak",
+    "url": "https://github.com/sinkaroid/cabul"
+  },
+  {
+    "api": "Paket ID",
+    "desc": "Jasa pengiriman",
+    "cat": "JasaPengiriman",
+    "auth": "apiKey",
+    "url": "http://docs.paket.id/API/Versi_2.html"
+  },
+  {
+    "api": "Raja Ongkir",
+    "desc": "Cek ongkos kirim pada beberapa jasa antar barang seperti [JNE], [POS], [TIKI], dan lain-lain.",
+    "cat": "JasaPengiriman",
+    "auth": "apiKey",
+    "url": "http://rajaongkir.com/dokumentasi"
+  },
+  {
+    "api": "Cek Resi",
+    "desc": "API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll.",
+    "cat": "JasaPengiriman",
+    "auth": "apiKey",
+    "url": "https://docs.binderbyte.com/api/cek-resi"
+  },
+  {
+    "api": "J&T | J&T Official",
+    "desc": "API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order.",
+    "cat": "JasaPengiriman",
+    "auth": "apiKey",
+    "url": "https://developer.jet.co.id/documentation"
+  },
+  {
+    "api": "POST Indonesia",
+    "desc": "Jasa pengiriman",
+    "cat": "JasaPengiriman",
+    "auth": "apiKey",
+    "url": "https://www.trackingmore.com/indonesia-post-tracking-api.html"
+  },
+  {
+    "api": "Pinterest Search Image",
+    "desc": "Mencari gambar berdasarkan keyword di platform Pinterest",
+    "cat": "SosialMedia",
+    "auth": "Tidak",
+    "url": "https://fdci.se/pinterest-search-image/"
+  },
+  {
+    "api": "Unofficial TikTok API",
+    "desc": "Unofficial API Tiktok Untuk Scraping",
+    "cat": "SosialMedia",
+    "auth": "Tidak",
+    "url": "https://api.fdci.se/api/tiktok.php"
+  },
+  {
+    "api": "Unofficial Instagram API",
+    "desc": "Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight",
+    "cat": "SosialMedia",
+    "auth": "Tidak",
+    "url": "https://documenter.getpostman.com/view/7256976/TVeqbm7z"
+  },
+  {
+    "api": "Twitter Video Downloader",
+    "desc": "Unofficial API Twitter untuk Scraping Video Twitter",
+    "cat": "SosialMedia",
+    "auth": "Tidak",
+    "url": "https://documenter.getpostman.com/view/7256976/TVeqbm7z"
+  },
+  {
+    "api": "Facebook Video Downloader",
+    "desc": "Unofficial API Facebook untuk Scraping Video Facebook",
+    "cat": "SosialMedia",
+    "auth": "Tidak",
+    "url": "https://github.com/bramaudi/fbdown"
+  },
+  {
+    "api": "Data Pandemi Covid-19",
+    "desc": "API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://kawalcorona.com/api/"
+  },
+  {
+    "api": "Data Pandemi Covid-19",
+    "desc": "API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://covid19.mathdro.id/api"
+  },
+  {
+    "api": "Data Covid-19 di Indonesia ter update",
+    "desc": "API untuk melihat statistik terbaru di Indonesia",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://data.covid19.go.id/public/api/update.json"
+  },
+  {
+    "api": "Data Covid-19 di Indonesia per provinsi",
+    "desc": "API untuk melihat statistik terbaru di Indonesia",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://data.covid19.go.id/public/api/prov.json"
+  },
+  {
+    "api": "Data Pandemi Covid-19 per provinsi",
+    "desc": "API statistik kasus covid-19 per provinsi di Indonesia",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://indonesia-covid-19.mathdro.id/api/provinsi/"
+  },
+  {
+    "api": "Data rumah sakit rujukan covid-19 di Indonesia",
+    "desc": "API rumah sakit rujukan covid-19 di Indonesia",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://dekontaminasi.com/api/id/covid19/hospitals"
+  },
+  {
+    "api": "Data COVID-19 di Indonesia",
+    "desc": "API untuk melihat data COIVD-19 di Indonesia",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://apicovid19indonesia-v2.vercel.app/"
+  },
+  {
+    "api": "Data vaksinasi COVID-19 di Indonesia",
+    "desc": "Data vaksinasi COVID-19 hasil scrapping website kemenkes",
+    "cat": "Kesehatan",
+    "auth": "Tidak",
+    "url": "https://vaksincovid19-api.now.sh/"
+  },
+  {
+    "api": "Kode Pos",
+    "desc": "Daftar Kode Pos di Indonesia",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "https://github.com/bachors/apiapi#kode-pos-api"
+  },
+  {
+    "api": "Kode Pos",
+    "desc": "Daftar Kode Pos di Indoneisa",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "http://log.kalarau.net/kodepos.html"
+  },
+  {
+    "api": "Kode Pos",
+    "desc": "Daftar Kode Pos di Indonesia",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "https://nbc.vanmason.web.id/service/kodepos/42173"
+  },
+  {
+    "api": "Kode Pos",
+    "desc": "Pencarian Kode Pos Indonesia Berdasarkan Nama Tempat, Desa atau Kota",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "https://github.com/sooluh/kodepos"
+  },
+  {
+    "api": "Nama Daerah Seluruh Indonesia",
+    "desc": "Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/"
+  },
+  {
+    "api": "Nama Daerah Seluruh Indonesia",
+    "desc": "JSON API nama Provinsi, Kabupaten, Kecamatan, dan Desa untuk Mobile Apps",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "https://ibnux.github.io/data-indonesia/"
+  },
+  {
+    "api": "Sekolah se Indonesia",
+    "desc": "Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "https://data.go.id/dataset/sekolah"
+  },
+  {
+    "api": "Museum di Indonesia",
+    "desc": "Daftar musem Indonesia berdasarkan nama ",
+    "cat": "Lokasi",
+    "auth": "Tidak",
+    "url": "http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum"
+  },
+  {
+    "api": "Spotify",
+    "desc": "Spotify Catalog",
+    "cat": "Musik",
+    "auth": "OAuth",
+    "url": "https://developer.spotify.com/web-api/"
+  },
+  {
+    "api": "SoundCloud",
+    "desc": "upload dan share music",
+    "cat": "Musik",
+    "auth": "apiKey",
+    "url": "https://developers.soundcloud.com/"
+  },
+  {
+    "api": "MusixMatch",
+    "desc": "Mencari Informasi dan Lirik lagu",
+    "cat": "Musik",
+    "auth": "apiKey",
+    "url": "https://developer.musixmatch.com/"
+  },
+  {
+    "api": "Deezer",
+    "desc": "Deezer Catalog",
+    "cat": "Musik",
+    "auth": "OAuth",
+    "url": "https://developers.deezer.com/api"
+  },
+  {
+    "api": "Data Indonesia",
+    "desc": "Data mengenai Indonesia",
+    "cat": "Pemerintahan",
+    "auth": "apiKey",
+    "url": "https://data.go.id/"
+  },
+  {
+    "api": "Data Jakarta ",
+    "desc": "Data mengenai pemerintah Provinsi DKI Jakarta",
+    "cat": "Pemerintahan",
+    "auth": "apiKey",
+    "url": "http://api.jakarta.go.id/"
+  },
+  {
+    "api": "Instansi",
+    "desc": "Menyediakan informasi mengenai nama instansi, nomor instansi, alamat dan lain-lain yang disortir dengan nama kabupaten",
+    "cat": "Pemerintahan",
+    "auth": "Tidak",
+    "url": "https://farizdotid.com/dokumentasi-api-instansi-indonesia/"
+  },
+  {
+    "api": "Data Pajak Motor",
+    "desc": "Data pajak kendaraan bermotor",
+    "cat": "Pemerintahan",
+    "auth": "apiKey",
+    "url": "https://github.com/elybin/parking_ocr"
+  },
+  {
+    "api": "Data BadanPusatStatistik",
+    "desc": "Data statistik indikator pembangunan seluruh Indonesia",
+    "cat": "Pemerintahan",
+    "auth": "apiKey",
+    "url": "https://webapi.bps.go.id/developer/"
+  },
+  {
+    "api": "Data BMKG",
+    "desc": "Data terkini cuaca dan kejadian bencana di Indonesia",
+    "cat": "Pemerintahan",
+    "auth": "Tidak",
+    "url": "http://data.bmkg.go.id/tentang/"
+  },
+  {
+    "api": "Cagar Budaya Indonesia",
+    "desc": "Warisan cagar budaya Indonesia termasuk bangunan, struktur, situs, dll.",
+    "cat": "Pemerintahan",
+    "auth": "Tidak",
+    "url": "https://data.go.id/dataset/cagar-budaya"
+  },
+  {
+    "api": "Gardu PLN",
+    "desc": "List Gardu PLN",
+    "cat": "Pemerintahan",
+    "auth": "Tidak",
+    "url": "http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf"
+  },
+  {
+    "api": "Batik Indonesia",
+    "desc": "BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual.",
+    "cat": "Pemerintahan",
+    "auth": "Tidak",
+    "url": "https://batikita.docs.apiary.io/#reference/0/all-batik-collections"
+  },
+  {
+    "api": "",
+    "desc": "",
+    "cat": "Prediksi",
+    "auth": "",
+    "url": ""
+  },
+  {
+    "api": "Data Sekolah API",
+    "desc": "Data Sekolah Negeri di Indonesia",
+    "cat": "Pendidikan",
+    "auth": "Tidak",
+    "url": "https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia"
+  },
+  {
+    "api": "BMKG Json API ",
+    "desc": "Ramalan cuaca Indonesia sampai 3 hari kedepan Import dari BMKG dalam bentuk JSON",
+    "cat": "Cuaca",
+    "auth": "Tidak",
+    "url": "https://ibnux.github.io/BMKG-importer/#pakai-langsung"
+  },
+  {
+    "api": "",
+    "desc": "",
+    "cat": "Sertifikasi",
+    "auth": "",
+    "url": ""
+  },
+  {
+    "api": "Arbanat",
+    "desc": "kirim sms melalui rest api",
+    "cat": "Utilitas",
+    "auth": "apiKey",
+    "url": "https://arbanat.my.id"
+  },
+  {
+    "api": "Qur'an Randomizer",
+    "desc": "Randomizer Qur'an Lengkap",
+    "cat": "Utilitas",
+    "auth": "Tidak",
+    "url": "https://api.banghasan.com/quran/format/json/acak"
+  },
+  {
+    "api": "Translasi",
+    "desc": "API translasi dengan google translate/baidu translate engine",
+    "cat": "Utilitas",
+    "auth": "Tidak",
+    "url": "https://github.com/azharimm/api-translate"
+  },
+  {
+    "api": "Google Trends",
+    "desc": "Realtime Google Trends API",
+    "cat": "Utilitas",
+    "auth": "Tidak",
+    "url": "https://github.com/azharimm/google-trends-api"
+  },
+  {
+    "api": "Google Playstore",
+    "desc": "Google playstore API",
+    "cat": "Utilitas",
+    "auth": "Tidak",
+    "url": "https://github.com/azharimm/google-play-api"
+  },
+  {
+    "api": "SMSNotif",
+    "desc": "Kirim sms melalui REST API atau Laravel Notification",
+    "cat": "Utilitas",
+    "auth": "apiKey",
+    "url": "https://www.smsnotif.id"
+  },
+  {
+    "api": "Zhirrr API",
+    "desc": "Menyajikan 30+ API Beserta Source Nya Gratis",
+    "cat": "Utilitas",
+    "auth": "apiKey",
+    "url": "https://github.com/Zhirrr/Zhirrr-Api"
+  },
+  {
+    "api": "Hadi API",
+    "desc": "Hasil Scrape Website",
+    "cat": "Utilitas",
+    "auth": "Tidak",
+    "url": "https://hadi-api.herokuapp.com/api"
+  }
+]
