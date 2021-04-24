@@ -1,5 +1,54 @@
 [
   {
+    "name": "Parcel",
+    "desc": "Parcel is a web application bundler, differentiated by its developer experience. It offers blazing fast performance utilizing multicore processing, and requires zero configuration.",
+    "cat": "Utility",
+    "doc": "https://parceljs.org/getting_started.html",
+    "src": "https://github.com/parcel-bundler/parcel"
+  },
+  {
+    "name": "Alpine.js",
+    "desc": "Alpine.js menawarkan kepada Anda sifat reaktif dan deklaratif dari framework besar seperti Vue atau React dengan biaya yang jauh lebih rendah. Anda bisa mempertahankan DOM Anda, dan taburkan dalam perilaku sesuai keinginan Anda.",
+    "cat": "Library,CSS,JS",
+    "doc": "https://github.com/alpinejs/alpine/blob/master/README.id.md",
+    "src": "https://github.com/alpinejs/alpine"
+  },
+  {
+    "name": "Framer Motion",
+    "desc": "A library of pure CSS animations.",
+    "cat": "Utility",
+    "doc": "https://www.framer.com/motion/",
+    "src": "https://github.com/framer/motion"
+  },
+  {
+    "name": "Tailwind CSS",
+    "desc": "Tailwind CSS is the only framework that I've seen scale on large teams. It’s easy to  customize, adapts to any design, and the build size is tiny.",
+    "cat": "Library,CSS,JS",
+    "doc": "https://tailwindcss.com/docs",
+    "src": "https://tailwindcss.com/docs/installation"
+  },
+  {
+    "name": "Barba.js",
+    "desc": "Barba.js is a small library that helps you create fluid and smooth transitions between your website’s pages. It makes your website run like a Single Page Application and help reduce the delay between your pages, minimize browser HTTP requests and enhance your user’s web experience.",
+    "cat": "Library,CSS,JS",
+    "doc": "https://barba.js.org/docs/getstarted/intro/",
+    "src": "https://barba.js.org/docs/getstarted/install/"
+  },
+  {
+    "name": "Jarallax",
+    "desc": "Jarallax is an open-source javascript library which makes adjusting css based on interaction easy. With Jarallax it's easy to create a parallax scrolling website.",
+    "cat": "Library,CSS",
+    "doc": "http://www.jarallax.com/?page=documentation",
+    "src": "http://www.jarallax.com/?page=download"
+  },
+  {
+    "name": "AOS",
+    "desc": "Animate on scroll library",
+    "cat": "Library,CSS,JS",
+    "doc": "https://github.com/michalsnik/aos",
+    "src": "https://github.com/michalsnik/aos/archive/master.zip"
+  },
+  {
     "name": "WickedCSS Animations",
     "desc": "A library of pure CSS animations.",
     "cat": "Library,CSS",
