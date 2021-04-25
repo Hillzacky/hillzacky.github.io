@@ -1,5 +1,159 @@
 [
   {
+    "name": "pagePiling",
+    "desc": "Create an original scrolling site",
+    "cat": "CSS,JS",
+    "doc": "https://alvarotrigo.com/pagePiling",
+    "src": "https://github.com/alvarotrigo/pagePiling.js#pagepilingjs"
+  },
+  {
+    "name": "Typed.js",
+    "desc": "Typed.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.",
+    "cat": "LIBRARY,JS,ANIMATION",
+    "doc": "https://mattboldt.com/demos/typed-js/",
+    "src": "https://github.com/mattboldt/typed.js/"
+  },
+  {
+    "name": "Tilt.js",
+    "desc": "A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery.",
+    "cat": "LIBRARY,JS,ANIMATION",
+    "doc": "https://gijsroge.github.io/tilt.js/",
+    "src": "https://github.com/gijsroge/tilt.js"
+  },
+  {
+    "name": "Lightbox2",
+    "desc": "Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.",
+    "cat": "LIBRARY,JS",
+    "doc": "https://lokeshdhakar.com/projects/lightbox2/",
+    "src": "https://github.com/lokesh/lightbox2"
+  },
+  {
+    "name": "Mocassin.css",
+    "desc": "Mocassin.css is a responsive collection of hover effects for Captions, powered by Sass. Each caption is adapt the size of the image.",
+    "cat": "LIBRARY,CSS,ANIMATION",
+    "doc": "https://eliezerpujols.github.io/mocassin.css/",
+    "src": "https://github.com/wideckop/mocassin.css"
+  },
+  {
+    "name": "Next.js",
+    "desc": "Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.",
+    "cat": "FRAMEWORK,JS",
+    "doc": "https://nextjs.org/docs",
+    "src": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "Nuxt.js",
+    "desc": "Build your next Vue.js application with confidence using NuxtJS. An open source framework making web development simple and powerful.",
+    "cat": "FRAMEWORK,JS",
+    "doc": "https://nuxtjs.org/docs/2.x/get-started/installation",
+    "src": "https://github.com/nuxt/nuxt.js"
+  },
+  {
+    "name": "Particles.js",
+    "desc": "A lightweight JavaScript library for creating particles.",
+    "cat": "JS,ANIMATION",
+    "doc": "https://vincentgarreau.com/particles.js/",
+    "src": "https://github.com/VincentGarreau/particles.js/"
+  },
+  {
+    "name": "Chart.js",
+    "desc": "Chart.js is a JavaScript library for data visualization, which supports 8 chart types: bar, line, area, pie, bubble, radar, polar, and scatter.",
+    "cat": "Utility,JS",
+    "doc": "https://www.chartjs.org/docs/latest/",
+    "src": "https://github.com/chartjs/Chart.js"
+  },
+  {
+    "name": "Waypoints",
+    "desc": "Waypoints is the easiest way to trigger a function when you scroll to an element.",
+    "cat": "CSS,JS",
+    "doc": "http://imakewebthings.com/waypoints/guides/getting-started/",
+    "src": "https://github.com/imakewebthings/waypoints"
+  },
+  {
+    "name": "Sweetalert.js",
+    "desc": "Library animation Alert.",
+    "cat": "JS,ANIMATION",
+    "doc": "https://sweetalert.js.org/docs",
+    "src": "https://github.com/t4t5/sweetalert"
+  },
+  {
+    "name": "Summernote",
+    "desc": "Summernote is a JavaScript library that helps you create WYSIWYG editors online.",
+    "cat": "Utility,JS",
+    "doc": "https://summernote.org/getting-started/",
+    "src": "https://github.com/summernote/summernote"
+  },
+  {
+    "name": "PeerJS",
+    "desc": "PeerJS provides a complete, configurable, and easy-to-use peer-to-peer API built on top of WebRTC, supporting both data channels and media streams.",
+    "cat": "Utility,JS",
+    "doc": "https://peerjs.com/docs.html#start",
+    "src": "https://github.com/peers/peerjs"
+  },
+  {
+    "name": "Animista",
+    "desc": "Library for CSS animations.",
+    "cat": "CSS,ANIMATION",
+    "doc": "https://animista.net",
+    "src": "https://animista.net/download"
+  },
+  {
+    "name": "Autoprefixer",
+    "desc": "PostCSS plugin to parse CSS and add vendor prefixes to CSS rules",
+    "cat": "Utility,CSS",
+    "doc": "https://github.com/postcss/autoprefixer",
+    "src": "https://github.com/postcss/autoprefixer"
+  },
+  {
+    "name": "DomCrawler",
+    "desc": "The DomCrawler component eases DOM navigation for HTML and XML documents.",
+    "cat": "Utility,PHP",
+    "doc": "https://symfony.com/doc/current/components/dom_crawler.html",
+    "src": "https://github.com/symfony/dom-crawler"
+  },
+  {
+    "name": "Hero Patterns",
+    "desc": "A collection of repeatable SVG background patterns for you to use on your web projects.",
+    "cat": "Utility,GENERATOR",
+    "doc": "https://www.heropatterns.com/",
+    "src": "https://www.heropatterns.com/"
+  },
+  {
+    "name": "SWR",
+    "desc": "SWR is a React Hooks library for remote data fetching.",
+    "cat": "LIBRARY,REACTJS",
+    "doc": "https://swr.vercel.app/",
+    "src": "https://github.com/vercel/swr"
+  },
+  {
+    "name": "Hijri date",
+    "desc": "This is a node module that allows you to convert Gregorian Dates to Hijri date with ease, also support day adjustments.",
+    "cat": "Utility,NODEJS",
+    "doc": "https://github.com/arabiaweather/hijri-date",
+    "src": "https://github.com/arabiaweather/hijri-date"
+  },
+  {
+    "name": "Redux",
+    "desc": "Redux is an JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark.",
+    "cat": "Utility,LIBRARY",
+    "doc": "https://redux.js.org/introduction/getting-started",
+    "src": "https://www.github.com/reduxjs/redux"
+  },
+  {
+    "name": "Heroicons",
+    "desc": "Beautiful hand-crafted SVG icons",
+    "cat": "FONT,ICONS",
+    "doc": "https://heroicons.com",
+    "src": "https://github.com/tailwindlabs/heroicons"
+  },
+  {
+    "name": "Boxicons",
+    "desc": "Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project. No attribution required.",
+    "cat": "FONT,ICONS",
+    "doc": "https://boxicons.com",
+    "src": "http://gum.co/boxicons"
+  },
+  {
     "name": "Parcel",
     "desc": "Parcel is a web application bundler, differentiated by its developer experience. It offers blazing fast performance utilizing multicore processing, and requires zero configuration.",
     "cat": "Utility",
