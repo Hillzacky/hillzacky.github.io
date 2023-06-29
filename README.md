@@ -1,6 +1,6 @@
-- ðŸ‘‹ Hi, Iâ€™m Hilmansyah . 
- - ðŸ‘€ Iâ€™m interested in Programming, technology, anime, linux. 
- - ðŸŒ± Iâ€™m currently Developing in PHP ðŸ’€. 
+ - Hi, I'm Hilmansyah . 
+ - I'm interested in Programming, technology, anime, linux. 
+ - I'm currently Developing in PHP. 
   
   
  ![My stats](https://github-readme-stats.vercel.app/api?username=hillzacky&show_icons=true&theme=tokyonight) 
